@@ -6,4 +6,6 @@ In this project, we will build a Content-based recommenders system for movies.
 ## Avatar similar movies.<br>
 ![image](https://user-images.githubusercontent.com/65563164/143032199-28ce3ade-0244-4dd3-a5b8-a4c3a9a81f98.png)<br>
 ## The Dark Knight Rises similar movies.<br>
-![image](https://user-images.githubusercontent.com/65563164/143032267-bb288c99-5a80-4912-aca8-01eeb2942865.png)
+![image](https://user-images.githubusercontent.com/65563164/143032267-bb288c99-5a80-4912-aca8-01eeb2942865.png)<br>
+![image](https://user-images.githubusercontent.com/65563164/143300457-a2479d79-67b2-4baa-8bea-e36bd753b0b7.png)
+
